@@ -9,13 +9,12 @@
 title: GroceRise
 email: info@grocerise.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Save time spent in doing groceries and Rise affection with friends and neighbours
+  with the new sharing lifestyle in GroceRise!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://grocerise.com" # the base hostname & protocol for your site
-twitter_username: hitchover
-github_username:  linuxstudio
+#twitter_username: hitchover
+github_username:  linuxstudio/grocerise
 
 # Build settings
 markdown: kramdown
